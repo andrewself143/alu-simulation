@@ -4,3 +4,17 @@
 [alu-simulation/sources_1](alu-simulation/sources_1).<br>
 
 ![Alt Text](alu.png)
+
+### The ALU can perform the following operations:
+
+- add
+- subtract
+- and
+- not
+- or
+- xor
+- shift
+- sign_extender
+- mux
+- read
+- write
